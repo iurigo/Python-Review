@@ -1,5 +1,6 @@
 # Python-Review
 ![](https://www.python.org/static/img/python-logo@2x.png)
+
 Python is a powerful high-level, object-oriented programming language created by Guido van Rossum.
 
 It has simple easy-to-use syntax, making it the perfect language for someone trying to learn computer programming for the first time.
